@@ -12,19 +12,20 @@ This repository contains the source code for a social media application built us
 
 **Features** 🚀
 
-User Authentication: Secure login and registration functionality.
+**User Authentication**: Secure login and registration functionality.
 
-Profile Management: Users can create and customize their profiles with personal information, photos, and more.
+**Profile Management**: Users can create and customize their profiles with personal information, photos, and more.
 
-Real-Time Feeds: View posts from users in a dynamically updated feed.
+**Real-Time Feeds**: View posts from users in a dynamically updated feed.
 
-Post Creation: Share thoughts, images, or links with others.
+**Post Creation**: Share thoughts, images, or links with others.
 
-Like & Comment System: Interact with posts through likes and comments.
+**Like & Comment System**: Interact with posts through likes and comments.
 
-Responsive Design: Fully optimized for mobile, tablet, and desktop devices.
+**Responsive Design**: Fully optimized for mobile, tablet, and desktop devices.
 
 **Tech Stack** 🛠️
+
 React: Frontend library for building the user interface.
 
 CSS: For styling and layout design.
