@@ -5,6 +5,9 @@ A fully responsive and dynamic social media application built with React and sty
 
 This repository contains the source code for a social media application built using React and CSS. The app is designed to offer a seamless user experience with a modern, responsive UI and essential social networking features.
 
+![image](https://github.com/user-attachments/assets/39a51dde-4f44-447f-96d0-fb3323dcde4a)
+
+
 ![image001](https://github.com/user-attachments/assets/325ec0c2-8dd5-4d97-bc24-36cab2b046c5)
 
 **Features** 🚀
