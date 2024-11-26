@@ -16,13 +16,17 @@ This repository contains the source code for a social media application built us
 
 **Profile Management**: Users can create and customize their profiles with personal information, photos, and more.
 
-**Real-Time Feeds**: View posts from users in a dynamically updated feed.
+**Real-Time Feeds**: View posts from users..
 
 **Post Creation**: Share thoughts, images, or links with others.
+
+**React Router**: Enables seamless navigation between pages.
 
 **Like & Comment System**: Interact with posts through likes and comments.
 
 **Responsive Design**: Fully optimized for mobile, tablet, and desktop devices.
+
+**React Hooks**: For state and effect management.
 
 **Tech Stack** 🛠️
 
