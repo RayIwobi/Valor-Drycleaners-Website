@@ -1,49 +1,71 @@
-Social Media App
+**Social Media App**
 
 
 A fully responsive and dynamic social media application built with React and styled using CSS. This project showcases my skills in front-end development and modern web design principles.
 
 This repository contains the source code for a social media application built using React and CSS. The app is designed to offer a seamless user experience with a modern, responsive UI and essential social networking features.
 
+**Screenshots** 📸
 ![image](https://github.com/user-attachments/assets/39a51dde-4f44-447f-96d0-fb3323dcde4a)
 
 
-![image001](https://github.com/user-attachments/assets/325ec0c2-8dd5-4d97-bc24-36cab2b046c5)
 
 **Features** 🚀
+
 User Authentication: Secure login and registration functionality.
+
 Profile Management: Users can create and customize their profiles with personal information, photos, and more.
+
 Real-Time Feeds: View posts from users in a dynamically updated feed.
+
 Post Creation: Share thoughts, images, or links with others.
+
 Like & Comment System: Interact with posts through likes and comments.
+
 Responsive Design: Fully optimized for mobile, tablet, and desktop devices.
-Dark Mode: Optional theme toggle for a better user experience in low-light environments.
-Tech Stack 🛠️
+
+**Tech Stack** 🛠️
 React: Frontend library for building the user interface.
+
 CSS: For styling and layout design.
-[Optional Backend/Database Info]: (e.g., Firebase, Node.js, etc., if applicable).
-Screenshots 📸
-Include screenshots of the app to give users a visual overview.
 
 **Installation & Setup** 🏗️
 Clone the repository:
+
 bash
-Copy code
+
+**Copy code**
+
 git clone https://github.com/yourusername/social-media-app.git  
-Navigate to the project directory:
+
+**Navigate to the project directory:**
+
 bash
-Copy code
+
+**Copy code**
+
 cd social-media-app  
-Install dependencies:
+
+**Install dependencies:**
+
 bash
-Copy code
+
+**Copy code**
+
 npm install
+
 also install node_modules as it was excluded
-Start the development server:
+
+**Start the development server:**
+
 bash
-Copy code
+
+**Copy code**
+
 npm start  
+
 Open the app in your browser at http://localhost:3000.
+
 Contributions 🤝
 Contributions, issues, and feature requests are welcome! Feel free to open a pull request or create an issue to improve the app.
 
