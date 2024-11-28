@@ -15,18 +15,23 @@ Custom CSS Styling: Tailored design with clean and consistent branding across al
 
 ![image001](https://github.com/user-attachments/assets/e4fea16a-6b87-4073-b75a-6b32630fd10d)
 
-============================================================
+==================================================
 
 
-ABOUT US IMAGE
+**ABOUT US IMAGE**
 
 ![image002](https://github.com/user-attachments/assets/5a93aae1-666f-4e55-ba7b-b619ac67ac61)
 
+==================================================
 
 
-SERVICES SECTION IMAGE
+
+
+**SERVICES SECTION IMAGE**
 
 ![image003](https://github.com/user-attachments/assets/264a2d9a-2234-4757-8885-89d69db3f94c)
+
+==================================================
 
 
 bash
