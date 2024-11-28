@@ -1,5 +1,7 @@
 **Valor Drycleaners**
 
+The home page view
+
 ![image](https://github.com/user-attachments/assets/2d91ec58-b7ed-40ef-a6c4-1a93f08e5dde)
 
 This repository contains the source code for the Valor Drycleaners Dry Cleaning Website, built with React and styled using CSS. It was built from scratch without any template. The website showcases the business’s features, services, and team, providing a seamless and engaging user experience.
@@ -26,44 +28,6 @@ SERVICES SECTION IMAGE
 
 ![image003](https://github.com/user-attachments/assets/264a2d9a-2234-4757-8885-89d69db3f94c)
 
-
-Project Structure
-bash
-Copy code
-src/
-│
-├── components/       # Reusable React components (Navbar, Footer, etc.)
-├── pages/            # Individual pages (Home, About, Services, etc.)
-├── assets/           # Images, fonts, and other static assets
-├── styles/           # CSS files for component and page styling
-├── App.js            # Main application file
-├── index.js          # Entry point for React
-└── package.json      # Project metadata and dependencies
-Dependencies
-The project is powered by the following key dependencies:
-
-<<<<<<< HEAD
-Core Dependencies
-React: ^18.x.x – For building the UI and handling state management.
-React Router DOM: ^6.x.x – For client-side routing to navigate between pages.
-PropTypes: ^15.x.x – To ensure the correct usage of props in components.
-Styling Dependencies
-CSS Modules or SASS (optional) – Modular styling for better code organization (if used).
-
-FontAwesome: ^6.x.x – For icons used across the website.
-Development Dependencies
-
-ESLint: ^8.x.x – For maintaining code quality and consistency.
-Prettier: ^3.x.x – For automated code formatting.
-Webpack: ^5.x.x (if custom configurations are used) – For bundling React components.
-How to Run the Project
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/drycleaning-website.git
-cd drycleaning-website
-Install Dependencies:
 
 bash
 Copy code
