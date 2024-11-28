@@ -1,19 +1,30 @@
 **Valor Drycleaners**
 
-<<<<<<< HEAD
+![image](https://github.com/user-attachments/assets/2d91ec58-b7ed-40ef-a6c4-1a93f08e5dde)
 
-This repository contains the source code for the Valor Drycleaners Dry Cleaning Website, built with React and styled using CSS. The website showcases the business’s features, services, and team, providing a seamless and engaging user experience.
+This repository contains the source code for the Valor Drycleaners Dry Cleaning Website, built with React and styled using CSS. It was built from scratch without any template. The website showcases the business’s features, services, and team, providing a seamless and engaging user experience.
 
 Features
 Responsive Design: Fully responsive layout to ensure optimal viewing on desktops, tablets, and mobile devices.
 Dynamic Components: Modular React components for easy maintenance and scalability.
 Custom CSS Styling: Tailored design with clean and consistent branding across all pages.
 
-Optimized Performance: Code optimized for fast load times and smooth interactions.
-Contact Form: Functional form for user inquiries, integrated with email handling (e.g., via a service like EmailJS).
-=======
-![image](https://github.com/user-attachments/assets/2d91ec58-b7ed-40ef-a6c4-1a93f08e5dde)
->>>>>>> 55132bf3f18e81b83e9859f6e5f387cfee3a2478
+**FEATURES SECTION***
+
+![image001](https://github.com/user-attachments/assets/e4fea16a-6b87-4073-b75a-6b32630fd10d)
+
+============================================================
+
+
+ABOUT US IMAGE
+
+![image002](https://github.com/user-attachments/assets/5a93aae1-666f-4e55-ba7b-b619ac67ac61)
+
+
+
+SERVICES SECTION IMAGE
+
+![image003](https://github.com/user-attachments/assets/264a2d9a-2234-4757-8885-89d69db3f94c)
 
 
 Project Structure
