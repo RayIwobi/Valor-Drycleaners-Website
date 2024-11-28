@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import image from './assets/femaledry.jpg';
+import image from './assets/webimages/femaledry.jpg';
 
 function Home() {
   return (

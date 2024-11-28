@@ -1,8 +1,8 @@
 import React from 'react'
-import eco from './assets/eco-friendly.png'
-import expertise from './assets/expertise.png'
-import advancement from './assets/advancement.png'
-import pickupdelivery from './assets/pickupdelivery.png'
+import eco from './assets/webimages/ecocleaning.png'
+import expertise from './assets/webimages/expertise2.png'
+import advancement from './assets/webimages/advancement2.png'
+import pickupdelivery from './assets/webimages/delivery2.png'
 
 function Features() {
   return (
@@ -19,7 +19,7 @@ function Features() {
         
         <div className='container'>
             <div className='imagecontent'>
-                <img src={eco} alt='features' width={80} height={80}/>
+                <img src={eco} alt='features' width={70} height={70} style={{marginTop:'10px'}}/>
             </div>
             <div className='textcontent'>
             <h2>Eco-Friendly Cleaning</h2>
@@ -29,7 +29,7 @@ function Features() {
         </div>
         <div className='container'>
             <div className='imagecontent'>
-            <img src={expertise} alt='features' width={80} height={80}/>
+            <img src={expertise} alt='features' width={70} height={70} style={{marginTop:'10px'}}/>
             </div>
             <div className='textcontent'>
             <h2>Professional Expertise</h2>
@@ -39,7 +39,7 @@ function Features() {
         </div>
         <div className='container'>
             <div className='imagecontent'>
-            <img src={advancement} alt='features' width={80} height={80}/>
+            <img src={advancement} alt='features' width={70} height={70} style={{marginTop:'10px'}}/>
             </div>
             <div className='textcontent'>
             <h2>Advanced Technology</h2>
@@ -49,7 +49,7 @@ function Features() {
         </div>
         <div className='container'>
             <div className='imagecontent'>
-            <img src={pickupdelivery} alt='features' width={80} height={80}/>
+            <img src={pickupdelivery} alt='features' width={70} height={70} style={{marginTop:'10px'}}/>
             </div>
             <div className='textcontent'>
                 <h2>Free Pickup & Delivery</h2>

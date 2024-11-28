@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-import aboutimg from './assets/gali1.jpg'
+import aboutimg from './assets/webimages/gali1.jpg'
 function About() {
   return (
     <div className='aboutcontainer'>

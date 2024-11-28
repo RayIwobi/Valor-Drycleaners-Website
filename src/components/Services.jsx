@@ -1,11 +1,11 @@
 
 import React from 'react'
-import image1 from './assets/women.png'
-import image2 from './assets/women.png'
-import image3 from './assets/women.png'
-import image4 from './assets/women.png'
-import image5 from './assets/women.png'
-import image6 from './assets/women.png'
+import image1 from './assets/webimages/drycleaningsuit.png'
+import image2 from './assets/webimages/laundry-machine.png'
+import image3 from './assets/webimages/cleaning.png'
+import image4 from './assets/webimages/industry.png'
+import image5 from './assets/webimages/delivery-man.png'
+import image6 from './assets/webimages/clothing.png'
 
 function Services() {
   return (
@@ -22,7 +22,7 @@ function Services() {
             <div className='parentContainer'>
             <div className='container'>
                 <div className='imagecontent'>
-                    <img src={image1} alt='services' width={80} height={80}/>
+                    <img src={image1} alt='services' width={70} height={70} style={{marginTop:'10px'}}/>
                 </div>
                 <div className='textcontent'>
                 <h2>Dry Cleaning Services</h2>
@@ -34,7 +34,7 @@ function Services() {
 
             <div className='container'>
             <div className='imagecontent'>
-                <img src={image2} alt='services' width={80} height={80}/>
+                <img src={image2} alt='services' width={70} height={70} style={{marginTop:'10px'}}/>
             </div>
             <div className='textcontent'>
             <h2>Clothes Laundry & Folding Services</h2>
@@ -46,7 +46,7 @@ function Services() {
 
             <div className='container'>
             <div className='imagecontent'>
-                <img src={image3} alt='services' width={80} height={80}/>
+                <img src={image3} alt='services' width={70} height={70} style={{marginTop:'10px'}}/>
             </div>
             <div className='textcontent'>
             <h2>Home & Apartment Cleaning Services</h2>
@@ -60,7 +60,7 @@ function Services() {
             <div className='parentContainer'>
             <div className='container'>
             <div className='imagecontent'>
-                <img src={image4} alt='services' width={80} height={80}/>
+                <img src={image4} alt='services' width={70} height={70} style={{marginTop:'10px'}}/>
             </div>
             <div className='textcontent'>
             <h2>Industrial Cleaning Services</h2>
@@ -71,7 +71,7 @@ function Services() {
 
             <div className='container'>
             <div className='imagecontent'>
-                <img src={image5} alt='services' width={80} height={80}/>
+                <img src={image5} alt='services' width={70} height={70} style={{marginTop:'10px'}}/>
             </div>
             <div className='textcontent'>
             <h2>Pickup & Delivery Services</h2>
@@ -83,7 +83,7 @@ function Services() {
 
             <div className='container'>
             <div className='imagecontent'>
-                <img src={image6} alt='services' width={80} height={80}/>
+                <img src={image6} alt='services' width={70} height={70} style={{marginTop:'10px'}}/>
             </div>
             <div className='textcontent'>
             <h2>Alterations & Repairs</h2>

@@ -5,10 +5,11 @@ import Home from './components/Home';
 import Features from './components/Features';
 import About from './components/About';
 import Services from './components/Services';
-// import Gallery from './components/Gallery';
+import Gallery from './components/Gallery';
 // import Testimonial from './components/Testimonial';
 // import Team from './components/Team';
 // import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 
 
@@ -21,6 +22,8 @@ function App() {
       <Features/>
       <About/>
       <Services/>
+      <Gallery/>
+      <Footer />
         <Routes>
           {/*<Route path='/' element={<Home/>} />
           <Route path='/Features' element={<Features/>} />

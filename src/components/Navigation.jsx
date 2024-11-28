@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css'
 import { Link } from 'react-router-dom';
-import cleaner from './assets/women.png';
+import cleaner from './assets/webimages/women.png';
 
 function Navigation() {
   return (
