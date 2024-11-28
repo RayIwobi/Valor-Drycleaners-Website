@@ -7,8 +7,8 @@ function Navigation() {
   return (
     <div className='navigationtop'>
         <div className='titlebar'>
-            <h3><img src={cleaner} alt='cleaning' width={40} height={40}/>
-            Valor Drycleaners</h3>
+            <Link to='/'><h3><img src={cleaner} alt='cleaning' width={40} height={40}/>
+            Valor Drycleaners</h3></Link>
         </div>
         <div className='navigation'>
         <ul>
