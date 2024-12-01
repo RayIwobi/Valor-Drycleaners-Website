@@ -1,6 +1,7 @@
 **Valor Drycleaners**
 
-<<<<<<< HEAD
+
+![alt text](image.png)
 
 This repository contains the source code for the Valor Drycleaners Dry Cleaning Website, built with React and styled using CSS. The website showcases the business’s features, services, and team, providing a seamless and engaging user experience.
 

@@ -213,11 +213,259 @@
     text-align: justify;
 }
 
+/* Gallery section */
+.gallerymain{
+    margin-bottom: 60px;
+}
+
+.gallerycontainer img{
+    /* display: flex; */
+    width: 250px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 3px;
+}
+
+
+/* Gallery lightbox zoom mechanism */
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px;
+}
+
+.gallery-image{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.gallery-image:hover {
+    transform: scale(1.1);
+}
+
+.lightbox{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.lightbox-content{
+    max-width: 90%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.lightbox:hover{
+    cursor: pointer;
+}
+
+
+/* testimonies section */
+
+.testimonialmain{
+    background-color: rgb(236, 231, 224);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.testimonials{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 900px;
+}
+
+.individualtestimonies{
+    display: flex;
+    margin: 10px;
+
+}
+
+.testimonyimg img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.testimonytext{
+    width: 150px;
+    font-size: 12px;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 8px;
+    font-style: italic;
+}
+
+.testimonytext h3{
+    font-weight:300;
+    font-size: 15px;
+}
+
+/* THE TEAM SECTION */
+.theteam{
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+    justify-content: space-around;
+}
+
+.teammembers img{
+    width: 200px;
+    height: 210px;
+    border-radius: 10px;
+}
+
+.teammembers h3{
+    font-weight: 500;
+}
+.teammembers h4{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+#fit{
+    object-fit: cover;
+}
+
+/* CONTACT SECTION */
+.contactmain{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: linear-gradient(to right, #189AB4, #FFA384);
+}
+
+.contactheader{
+    width: 900px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.contactheader h1{
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    text-align: left;
+}
+
+.contactheader h3{
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+    text-align: left;
+    width: 500px;
+}
+
+.horizontalruler{
+    width: 60px;
+    height: 4px;
+    background-image: linear-gradient(to right, green, purple);
+    align-items: left;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+.infocontainer{
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+
+.formarea{
+    width: 600px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.formarea div{
+    display: flex;
+}
+
+#name{
+    margin-right: 65px;
+}
+
+.formarea input{
+    border-radius: 5px;
+    border: none;
+    width: 200px;
+    height: 30px;
+    margin-bottom: 10px;
+    margin-left: 0;
+}
+
+.infoarea2 h1{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.infoarea2 h3{
+    text-align: left;
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+#textarea{
+    width: 465px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+#submit{
+    cursor: pointer;
+    background-color: peachpuff;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.submitbutton{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    border: 5px;
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: rgb(102, 117, 102);
+    cursor: pointer;
+}
 
 
 
 
 
+
+
+
+
+
+
+
+/* footer section */
 .footercontent h2{
     display: flex;
     align-items: center;

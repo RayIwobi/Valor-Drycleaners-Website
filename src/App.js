@@ -6,9 +6,9 @@ import Features from './components/Features';
 import About from './components/About';
 import Services from './components/Services';
 import Gallery from './components/Gallery';
-// import Testimonial from './components/Testimonial';
-// import Team from './components/Team';
-// import Contact from './components/Contact';
+import Testimonial from './components/Testimonial';
+import Team from './components/Team';
+import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 
@@ -23,6 +23,9 @@ function App() {
       <About/>
       <Services/>
       <Gallery/>
+      <Testimonial/>
+      <Team/>
+      <Contact/>
       <Footer />
         <Routes>
           {/*<Route path='/' element={<Home/>} />
@@ -30,7 +33,7 @@ function App() {
            // // <Route path='/About' element={<About/>} />
           // <Route path='/Services' element={<Services/>} />
           // <Route path='/Gallery' element={<Gallery/>} />
-          // <Route path='/Testimonial' element={<Testimonial/>} />
+          // <Route path='/Testimonial' element={} />
           // <Route path='/Team' element={<Team/>} />
           // <Route path='/Contact' element={<Contact/>} /> */}
         </Routes>
