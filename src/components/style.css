@@ -95,6 +95,11 @@
     background-image: linear-gradient(to bottom,#f5f0b9, #d8ffff) ;
 }
 
+#featuressection{
+    position: top;
+    justify-content: flex-start;
+}
+
 .horizontalrule{
     width: 60px;
     height: 4px;

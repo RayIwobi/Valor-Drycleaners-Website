@@ -1,6 +1,6 @@
 import React from 'react';
 import Navigation from './components/Navigation';
-import {BrowserRouter as Router, Routes} from 'react-router-dom';
+import {BrowserRouter as Router} from 'react-router-dom';
 import Home from './components/Home';
 import Features from './components/Features';
 import About from './components/About';
@@ -10,7 +10,6 @@ import Testimonial from './components/Testimonial';
 import Team from './components/Team';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-
 
 
 function App() {
@@ -27,19 +26,7 @@ function App() {
       <Team/>
       <Contact/>
       <Footer />
-        <Routes>
-          {/*<Route path='/' element={<Home/>} />
-          <Route path='/Features' element={<Features/>} />
-           // // <Route path='/About' element={<About/>} />
-          // <Route path='/Services' element={<Services/>} />
-          // <Route path='/Gallery' element={<Gallery/>} />
-          // <Route path='/Testimonial' element={} />
-          // <Route path='/Team' element={<Team/>} />
-          // <Route path='/Contact' element={<Contact/>} /> */}
-        </Routes>
       </Router>
-      <Router/>
-      
     </div>
   )
 }

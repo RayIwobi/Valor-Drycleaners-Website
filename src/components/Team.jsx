@@ -6,7 +6,7 @@ import t4 from '../components/assets/team/t4.jpg';
 
 function Team() {
   return (
-    <div>
+    <div id='Team'>
         <div>
         <div className='featureheader'>
             <h1>MEET THE TEAM</h1>

@@ -9,7 +9,7 @@ import testimg6 from '../components/assets/testimonies/test6.jpg';
 
 function Testimonial() {
   return (
-    <div className='testimonialmain'>
+    <div className='testimonialmain' id='Testimonial'>
         <div>
         <div className='featureheader'>
             <h1>WHAT OUR CLIENTS SAY</h1>

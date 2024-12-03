@@ -9,7 +9,7 @@ function Home() {
             <img src={image} alt='home-image' />
         </div>
         <div className='homewritep'>
-            <h4>Welcome to Valor DryCleaners </h4>
+            <a href='#features'><h4>Welcome to Valor DryCleaners </h4></a>
             <h5>
             At Valor DryCleaners, we provide professional, reliable, 
             and eco-friendly dry-cleaning and laundry services designed to 

@@ -10,7 +10,7 @@ import image6 from './assets/webimages/clothing.png'
 function Services() {
   return (
     <div className='featuremain'>
-        <div>
+        <div id='Services'>
             <div className='featureheader'>
                 <h1>OUR SERVICES</h1>
                 <hr className='horizontalrule'/>

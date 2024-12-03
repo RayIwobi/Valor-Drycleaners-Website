@@ -6,9 +6,10 @@ import pickupdelivery from './assets/webimages/delivery2.png'
 
 function Features() {
   return (
-    <div className='featuremain'>
+    <div className='featuremain' >
+        <div id='featuressection'>
         <div className='featureheader'>
-            <h1>FEATURES</h1>
+            <h1 >FEATURES</h1>
             <hr className='horizontalrule'/>
             <h3>Our dry-cleaning business website offers a user-friendly 
                 and visually appealing experience designed to showcase our 
@@ -57,7 +58,7 @@ function Features() {
                     garment care that makes life easy for our customers.</h3>
             </div>
         </div>
-      
+        </div>
     </div>
     </div>
   )

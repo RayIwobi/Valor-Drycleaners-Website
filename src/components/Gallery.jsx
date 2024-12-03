@@ -61,7 +61,8 @@ function Gallery() {
   };
   
   return (
-    <>
+    < >
+    <div id='Gallery'>
     {isFullscreen && (
         <div className="fullscreen-overlay" onClick={closeFullscreen}>
           <button className="nav-button prev" onClick={(e) => {e.stopPropagation(); showPrevious();}}>
@@ -116,6 +117,7 @@ function Gallery() {
             {/* </Masonry> */}
         </div>
         
+    </div>
     </div>
     </>
   )

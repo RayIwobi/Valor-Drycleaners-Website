@@ -27,7 +27,7 @@ function Contact() {
         };
 
   return (
-    <div className='contactmain'>
+    <div className='contactmain' id='Contact'>
         <div className='contactheader'>
             <h1>CONTACT US</h1>
             <hr className='horizontalruler'/>

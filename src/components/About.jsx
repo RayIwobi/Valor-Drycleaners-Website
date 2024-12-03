@@ -3,12 +3,12 @@ import './style.css'
 import aboutimg from './assets/webimages/gali1.jpg'
 function About() {
   return (
-    <div className='aboutcontainer'>
+    <div className='aboutcontainer' id='About'>
         <div className='aboutimg'>
             <img src={aboutimg} alt='aboutimg'/>
         </div>
         <div className='aboutwriteup'>
-            <h1>ABOUT US</h1>
+            <h1 >ABOUT US</h1>
             <h3>Welcome to Valor Drycleaners, your trusted dry-cleaning partner. 
                 Founded in 2014, we have proudly served the Port Harcourt area with 
                 a commitment to quality, convenience, and exceptional customer 
